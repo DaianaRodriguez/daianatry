@@ -1,0 +1,40 @@
+body {
+    background-image: url('https://images.pexels.com/photos/2680270/pexels-photo-2680270.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+  background-size: auto 100vh;
+  font-family: Arial;
+  height: 100vh;
+   
+  }
+  
+  .menu {
+  background-color: white;
+    }
+  .menu ul {
+    display: flex; 
+    justify-content: space-around;
+   }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+    }
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+    font-weight: 400;
+  }
+  
+  .site-subtitle { 
+  font-style: italic;
+  } 
+  
+  
